@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">practica_cartas</string>
+    <string name="empezar">empezar</string>
+    <string name="introduce_nombre">Introduce tu nombre</string>
+</resources>
